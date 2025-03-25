@@ -1,0 +1,17 @@
+@model TModel
+<!-- Razor code block opens with the (at) symbol followed by {
+then closes the code block with a } -->
+@{
+    ViewData["Title"] = "About";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<h2>@ViewData["Title"]</h2>
+<ul>
+    <li>Gaming</li>
+    <li>Music</li>
+    <li>COding Projects</li>
+</ul>
+@await Html.PartialAsync("_Sidebar")

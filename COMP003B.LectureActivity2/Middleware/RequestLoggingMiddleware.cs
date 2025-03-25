@@ -4,7 +4,10 @@ namespace COMP003B.LectureActivity2.Middleware;
 
 public class RequestLoggingMiddleware
 {
+    //fields
     private readonly RequestDelegate _next;
+    
+    //constructor
     public RequestLoggingMiddleware(RequestDelegate next)
     {
         _next = next;
