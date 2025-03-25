@@ -28,3 +28,4 @@
 /Users/brianna/RiderProjects/COMP003B.LectureActivity2/COMP003B.LectureActivity2/obj/Debug/net8.0/COMP003B.LectureActivity2.pdb
 /Users/brianna/RiderProjects/COMP003B.LectureActivity2/COMP003B.LectureActivity2/obj/Debug/net8.0/COMP003B.LectureActivity2.genruntimeconfig.cache
 /Users/brianna/RiderProjects/COMP003B.LectureActivity2/COMP003B.LectureActivity2/obj/Debug/net8.0/ref/COMP003B.LectureActivity2.dll
+/Users/brianna/RiderProjects/COMP003B.LectureActivity2/COMP003B.LectureActivity2/obj/Debug/net8.0/COMP003B.LectureActivity2.sourcelink.json
